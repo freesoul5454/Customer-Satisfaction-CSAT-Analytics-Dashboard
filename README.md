@@ -64,7 +64,7 @@ README.md
 ---
 ## Dashboard Preview
 
-![CSAT Dashboard](CSAT-Profit-Analysis-Dashboard.png)
+![CSAT Dashboard](dashboard-overview.png)
 
 ---
 
