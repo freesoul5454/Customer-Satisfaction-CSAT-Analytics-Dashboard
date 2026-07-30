@@ -65,10 +65,12 @@ README.md
 ## Dashboard Preview
 
 ![CSAT Dashboard](Images/dashboard-overview.png)
-```
----
+`---
+
 ## Author
-Ujala Vishwakarma
+Ujala Viswakarma
 ---
 ## License
-This project is intended for learning and portfolio purposes.
+This project is intended for learning and portfolio purposes.``
+
+
