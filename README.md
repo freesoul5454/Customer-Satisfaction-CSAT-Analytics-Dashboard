@@ -64,9 +64,6 @@ README.md
 ---
 ## Dashboard Preview
 
-```
-## Dashboard Preview
-
 ![CSAT Dashboard](Images/dashboard-overview.png)
 ```
 ---
